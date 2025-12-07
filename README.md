@@ -2,10 +2,6 @@
   <img src="assets/gacha_machine.png">
   <img src="assets/gacha_machine.png">
   <img src="assets/gacha_machine.png">
-  <img src="assets/gacha_machine.png">
-  <img src="assets/gacha_machine.png">
-  <img src="assets/gacha_machine.png">
-  <img src="assets/gacha_machine.png">
 </div>
 <div align="center">
 
@@ -45,9 +41,10 @@ You can click or drag the widgets around the screen to explore their behaviors.
 You can also download the executable file from [here](https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing).  
 The executable operates without needing any files from the repository or any other external resources.
 
-❗Errors may occur if the 'assets' folder, the 'widgets' folder, and the 'main.py' file are not located in the same directory.
+❗Errors may occur if the 'assets' folder, the 'widgets' folder, and the 'main.py' file are not located in the same directory.  
 ❗This program was developed and tested on Windows, so behavior on other platforms may vary.  
 ❗All images used in this project are stored in the **'assets'** folder and were drawn manually in MS Paint by the developer.
+
 
 
 
