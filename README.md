@@ -27,15 +27,15 @@
 
 | 위젯 이미지 | 설명 |
 | ----- | ----- |
-| <img src="assets/gacha_machine.png"> | 클릭하여 위젯 스폰, 우클릭 메뉴(초기화/종료) 제공. |
-| <img src="assets/asparagus.png"> | 메모를 기록할 수 있는 투명한 텍스트 편집기. |
-| <img src="assets/ball_normal.png"> | 현재 시스템 시간을 표시하는 작은 디지털 시계. |
-| <img src="assets/blackhole.png"> | **클릭 시** 쿠키가 열리며, 내부에 숨겨진 무작위 **명언이나 문구**가 나타납니다. |
-| 시계 | 거북이(Turtle) 위젯의 **주요 먹이** 아이템. |
-| <img src="assets/cloud.png"> | **배고픔** 상태를 가지며, 일정 시간 아스파라거스를 먹지 않으면 사망할 수 있는 펫 위젯입니다. |
-| <img src="assets/cookie_closed.png"> | 터틀 위젯에게 **위험한 아이템**입니다. |
-| <img src="assets/myturtle_normal.png"> | 단순히 떠다니며 데스크탑 분위기를 조성하는 위젯입니다. |
-| <img src="assets/postit.png"> | 다른 위젯들을 흡수하여 화면을 정리하는 **'휴지통'** 역할의 위젯. |
+| <div align="center"><img src="assets/gacha_machine.png" width="80"></div> | 클릭하여 위젯 스폰, 우클릭 메뉴(초기화/종료) 제공. |
+| <div align="center"><img src="assets/asparagus.png" width="80"></div> | 메모를 기록할 수 있는 투명한 텍스트 편집기. |
+| <div align="center"><img src="assets/ball_normal.png" width="80"></div> | 현재 시스템 시간을 표시하는 작은 디지털 시계. |
+| <div align="center"><img src="assets/blackhole.png" width="80"></div> | **클릭 시** 쿠키가 열리며, 내부에 숨겨진 무작위 **명언이나 문구**가 나타납니다. |
+| <div align="center">시계</div> | 거북이(Turtle) 위젯의 **주요 먹이** 아이템. |
+| <div align="center"><img src="assets/cloud.png" width="80"></div> | **배고픔** 상태를 가지며, 일정 시간 아스파라거스를 먹지 않으면 사망할 수 있는 펫 위젯입니다. |
+| <div align="center"><img src="assets/cookie_closed.png" width="80"></div> | 터틀 위젯에게 **위험한 아이템**입니다. |
+| <div align="center"><img src="assets/myturtle_normal.png" width="80"></div> | 단순히 떠다니며 데스크탑 분위기를 조성하는 위젯입니다. |
+| <div align="center"><img src="assets/postit.png" width="80"></div> | 다른 위젯들을 흡수하여 화면을 정리하는 **'휴지통'** 역할의 위젯. |
 
 ## 🕹️ 사용 방법 (How to Use)
 
@@ -76,6 +76,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
