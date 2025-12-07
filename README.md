@@ -52,4 +52,8 @@
 
 ### 실행 파일 생성 명령어 (Windows 기준)
 
+
 아래 명령어는 `main.py`와 모든 리소스(`assets`)를 포함하여 단일 실행 파일을 생성합니다. 특히, `--add-data` 옵션을 통해 `assets` 폴더의 모든 내용을 번들 내부의 `assets` 경로로 정확히 매핑하여 런타임에 발생할 수 있는 리소스 누락 오류를 방지합니다.
+
+exe 다운로드 링크 :
+https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
