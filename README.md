@@ -14,9 +14,9 @@
 
 </div>
 
-## 개요 (Overview & Concept)
+## 소개
 
-**Gacha Machine**은 단순한 기능을 넘어, 데스크탑 환경에 재미와 무작위성을 더하는 독특한 유틸리티 애플리케이션입니다. 메인 '가챠 머신' 아이콘을 **클릭할 때마다** 다양한 기능과 개성을 가진 위젯들이 무작위로 스폰(Spawn)됩니다. 이 위젯들은 사용자의 메모, 시간 확인, 심지어 가상의 생명체 관리까지 담당하며, 책상 위를 작은 디지털 놀이터로 만들어 줍니다.
+**Gacha-Widget**을 통해 몇 가지의 위젯을 뽑아 상호작용을 확인하세요!
 
 ## ⚙️ 주요 위젯 및 상호작용 (Key Widgets & Interactions)
 
@@ -71,6 +71,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
