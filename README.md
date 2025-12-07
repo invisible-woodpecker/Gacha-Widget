@@ -27,15 +27,15 @@
 
 | 위젯 이미지 | 설명 |
 | ----- | ----- |
-| <div align="center"><img src="assets/gacha_machine.png" height="80"></div> | 클릭하여 위젯 스폰, 우클릭 메뉴(초기화/종료) 제공. |
-| <div align="center"><img src="assets/asparagus.png" height="80"></div> | 메모를 기록할 수 있는 투명한 텍스트 편집기. |
-| <div align="center"><img src="assets/ball_normal.png" height="80"></div> | 현재 시스템 시간을 표시하는 작은 디지털 시계. |
-| <div align="center"><img src="assets/blackhole.png" height="80"></div> | **클릭 시** 쿠키가 열리며, 내부에 숨겨진 무작위 **명언이나 문구**가 나타납니다. |
-| <div align="center"><img src="https://emoji.discourse-cdn.com/apple/clock3.png" height="80"></div> | 거북이(Turtle) 위젯의 **주요 먹이** 아이템. |
-| <div align="center"><img src="assets/cloud.png" height="80"></div> | **배고픔** 상태를 가지며, 일정 시간 아스파라거스를 먹지 않으면 사망할 수 있는 펫 위젯입니다. |
-| <div align="center"><img src="assets/cookie_closed.png" height="80"></div> | 터틀 위젯에게 **위험한 아이템**입니다. |
-| <div align="center"><img src="assets/myturtle_normal.png" height="80"></div> | 단순히 떠다니며 데스크탑 분위기를 조성하는 위젯입니다. |
-| <div align="center"><img src="assets/postit.png" height="80"></div> | 다른 위젯들을 흡수하여 화면을 정리하는 **'휴지통'** 역할의 위젯. |
+| <div align="center"><img src="assets/gacha_machine.png" height="80"></div> | Gacha Machine입니다. (좌클릭을 통해 위젯을 뽑을 수 있고, 우클릭을 통해 초기화 혹은 종료가 가능합니다.) |
+| <div align="center"><img src="assets/asparagus.png" height="80"></div> | 아스파라거스입니다. 거북이가 좋아할 것 같습니다. |
+| <div align="center"><img src="assets/ball_normal.png" height="80"></div> | 공입니다. 꽤 무겁습니다. |
+| <div align="center"><img src="assets/blackhole.png" height="80"></div> | 블랙홀입니다. 무엇이든 빨려들어갑니다. |
+| <div align="center"><img src="https://emoji.discourse-cdn.com/apple/clock3.png" height="80"></div> | 말 그대로 시계입니다. (실제 이미지와 다를 수 있습니다.) |
+| <div align="center"><img src="assets/cloud.png" height="80"></div> | 구름입니다. 알아서 잘 돌아다닙니다. |
+| <div align="center"><img src="assets/cookie_closed.png" height="80"></div> | 행운의 쿠키입니다. '뜻밖의 행운'을 찾아보세요. |
+| <div align="center"><img src="assets/myturtle_normal.png" height="80"></div> | 거북이입니다. 공에 깔리지 않게 조심하세요. |
+| <div align="center"><img src="assets/postit.png" height="80"></div> | 메모장입니다. 글씨가 작아 안보일지도 모릅니다. |
 
 
 ## 🕹️ 사용 방법 (How to Use)
@@ -77,6 +77,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
