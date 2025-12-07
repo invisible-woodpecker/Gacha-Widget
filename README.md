@@ -1,23 +1,7 @@
-<div style="white-space: nowrap; width:100%;">
+| Left | Center | Right |
+|:---- |:------:| -----:|
+| ![](assets/gacha_machine.png) | ![](assets/asparagus.png) ![](assets/ball_normal.png) ![](assets/blackhole.png) ![](assets/cloud.png) ![](assets/cookie_closed.png) ![](assets/myturtle_normal.png) | ![](assets/gacha_machine.png) |
 
-  <span style="float:left;">
-    <img src="assets/gacha_machine.png">
-  </span>
-
-  <span style="display:inline-block; width:calc(100% - 120px); text-align:center;">
-    <img src="assets/asparagus.png">
-    <img src="assets/ball_normal.png">
-    <img src="assets/blackhole.png">
-    <img src="assets/cloud.png">
-    <img src="assets/cookie_closed.png">
-    <img src="assets/myturtle_normal.png">
-  </span>
-
-  <span style="float:right;">
-    <img src="assets/gacha_machine.png">
-  </span>
-
-</div>
 
 # Gacha-Widget
 
@@ -78,6 +62,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
