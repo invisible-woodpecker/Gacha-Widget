@@ -15,7 +15,11 @@
 
 </div>
 
-## ⚙️ 주요 위젯 및 상호작용 (Key Widgets & Interactions)
+## 시연 영상
+
+[![Watch the video](https://img.youtube.com/vi/8S2XWPIsWKw/0.jpg)](https://youtu.be/8S2XWPIsWKw)
+
+## 주요 위젯
 
 | 위젯 종류 | 기능 및 상호작용 | 특이 사항 | 
  | ----- | ----- | ----- | 
@@ -68,6 +72,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
