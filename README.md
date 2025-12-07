@@ -1,5 +1,5 @@
-|:---- |:------:| -----:|
-| ![](assets/gacha_machine.png) | ![](assets/asparagus.png) ![](assets/ball_normal.png) ![](assets/blackhole.png) ![](assets/cloud.png) ![](assets/cookie_closed.png) ![](assets/myturtle_normal.png) | ![](assets/gacha_machine.png) |
+
+![](assets/gacha_machine.png) ![](assets/asparagus.png) ![](assets/ball_normal.png) ![](assets/blackhole.png) ![](assets/cloud.png) ![](assets/cookie_closed.png) ![](assets/myturtle_normal.png) ![](assets/gacha_machine.png)
 
 
 # Gacha-Widget
