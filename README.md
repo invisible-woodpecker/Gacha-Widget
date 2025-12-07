@@ -8,8 +8,10 @@
  <img src="assets/gacha_machine.png">
 </div>
 
-# <div align="center">
-   Gacha-Widget
+<div align="center">
+
+# Gacha-Widget
+
 </div>
 
 ## 개요 (Overview & Concept)
@@ -69,6 +71,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
