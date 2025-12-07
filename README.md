@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/asparagus.png" width="400">
+  <img src="assets/asparagus.png">
 </div>
 
 # Gacha-Widget
@@ -61,6 +61,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
