@@ -11,12 +11,9 @@
 <div align="center">
 
 # Gacha-Widget
+**Gacha-Widget**을 통해 몇 가지의 위젯을 뽑아 상호작용을 확인하세요!
 
 </div>
-
-## 소개
-
-**Gacha-Widget**을 통해 몇 가지의 위젯을 뽑아 상호작용을 확인하세요!
 
 ## ⚙️ 주요 위젯 및 상호작용 (Key Widgets & Interactions)
 
@@ -71,6 +68,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
