@@ -16,11 +16,11 @@
 
 ## 시연 영상
 
-<div align="center">
-  <a href="https://youtu.be/8S2XWPIsWKw">
-    <img src="https://img.youtube.com/vi/8S2XWPIsWKw/0.jpg" width="70%" />
+<p align="center">
+  <a href="https://youtu.be/8S2XWPIsWKw" target="_blank">
+    <img src="https://img.youtube.com/vi/8S2XWPIsWKw/0.jpg" width="70%">
   </a>
-</div>
+</p>
 
 ## 주요 위젯
 
@@ -47,3 +47,4 @@ exe파일은 레포지토리의 파일 들을 요구하지 않습니다.
 
 ❗Windows 환경을 기준으로 작성된 프로그램으로, 다른 플랫폼에서는 원활하게 작동하지 않을 수 있습니다.  
 ❗프로그램에 사용된 모든 이미지는 assets 폴더에 저장되어 있으며, 제작자가 직접 그림판으로 도트 이미지를 그렸음을 밝힙니다.
+
