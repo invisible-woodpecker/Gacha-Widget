@@ -31,7 +31,7 @@
 | <div align="center"><img src="assets/asparagus.png" height="80"></div> | 메모를 기록할 수 있는 투명한 텍스트 편집기. |
 | <div align="center"><img src="assets/ball_normal.png" height="80"></div> | 현재 시스템 시간을 표시하는 작은 디지털 시계. |
 | <div align="center"><img src="assets/blackhole.png" height="80"></div> | **클릭 시** 쿠키가 열리며, 내부에 숨겨진 무작위 **명언이나 문구**가 나타납니다. |
-| <div align="center"><span style="font-size:80px; line-height:80px;">🕒</span></div> | 거북이(Turtle) 위젯의 **주요 먹이** 아이템. |
+| <div align="center"><span style="font-size:800px; line-height:800px;">🕒</span></div> | 거북이(Turtle) 위젯의 **주요 먹이** 아이템. |
 | <div align="center"><img src="assets/cloud.png" height="80"></div> | **배고픔** 상태를 가지며, 일정 시간 아스파라거스를 먹지 않으면 사망할 수 있는 펫 위젯입니다. |
 | <div align="center"><img src="assets/cookie_closed.png" height="80"></div> | 터틀 위젯에게 **위험한 아이템**입니다. |
 | <div align="center"><img src="assets/myturtle_normal.png" height="80"></div> | 단순히 떠다니며 데스크탑 분위기를 조성하는 위젯입니다. |
@@ -77,6 +77,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
