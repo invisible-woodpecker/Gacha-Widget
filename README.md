@@ -14,7 +14,7 @@ Interact with various desktop widgets you draw from the Gacha Machine!
 
 </div>
 
-## Demo Video
+## Demo Video(Click to open on YouTube)
 
 <p align="center">
   <a href="https://youtu.be/8S2XWPIsWKw" target="_blank">
@@ -48,6 +48,7 @@ The executable does not require any files from the repository.
 
 ❗This program was developed and tested on Windows, so behavior on other platforms may vary.  
 ❗All images used in this project are stored in the **'assets'** folder and were drawn manually in MS Paint by the developer.
+
 
 
 
