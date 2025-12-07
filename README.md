@@ -47,5 +47,6 @@ from [here](https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/vi
 The executable does not require any files from the repository.
 
 ❗This program was developed and tested on Windows, so behavior on other platforms may vary.  
-❗All images used in this project are stored in the **'assets'** folder and <span style="color:red">were drawn manually in MS Paint by the developer.</span>
+❗All images used in this project are stored in the **'assets'** folder and <font color="red">were drawn manually in MS Paint by the developer.</font>
+
 
