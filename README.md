@@ -1,23 +1,27 @@
-<div style="width:100%; position:relative;">
+<table width="100%">
+  <tr>
+    <!-- LEFT -->
+    <td align="left" style="width:25%;">
+      <img src="assets/gacha_machine.png">
+    </td>
 
-  <div style="float:left;">
-    <img src="assets/gacha_machine.png">
-  </div>
+    <!-- CENTER -->
+    <td align="center" style="width:50%;">
+      <img src="assets/asparagus.png">
+      <img src="assets/ball_normal.png">
+      <img src="assets/blackhole.png">
+      <img src="assets/cloud.png">
+      <img src="assets/cookie_closed.png">
+      <img src="assets/myturtle_normal.png">
+    </td>
 
-  <div style="width:100%; text-align:center;">
-    <img src="assets/asparagus.png">
-    <img src="assets/ball_normal.png">
-    <img src="assets/blackhole.png">
-    <img src="assets/cloud.png">
-    <img src="assets/cookie_closed.png">
-    <img src="assets/myturtle_normal.png">
-  </div>
+    <!-- RIGHT -->
+    <td align="right" style="width:25%;">
+      <img src="assets/gacha_machine.png">
+    </td>
+  </tr>
+</table>
 
-  <div style="float:right;">
-    <img src="assets/gacha_machine.png">
-  </div>
-
-</div>
 
 
 # Gacha-Widget
@@ -79,6 +83,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
