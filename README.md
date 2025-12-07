@@ -38,16 +38,16 @@ Interact with various desktop widgets you draw from the Gacha Machine!
 
 ## How to Use
 
-Download the files and run **main.py** to launch the Gacha Machine.  
+Download the files and run **main.py** to launch the Gacha Machine.(You may need to install 'PyQt6'.)  
 Click the machine to spawn widgets, and enjoy simple interactions between them.  
 You can click or drag the widgets around the screen to explore their behaviors.
 
-You can also download the executable file  
-from [here](https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing).  
-The executable does not require any files from the repository.
+You can also download the executable file from [here](https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing).  
+The executable operates without needing any files from the repository or any other external resources.
 
 ❗This program was developed and tested on Windows, so behavior on other platforms may vary.  
 ❗All images used in this project are stored in the **'assets'** folder and were drawn manually in MS Paint by the developer.
+
 
 
 
