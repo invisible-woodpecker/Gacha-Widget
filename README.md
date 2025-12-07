@@ -17,7 +17,11 @@
 
 ## 시연 영상
 
-[![Watch the video](https://img.youtube.com/vi/8S2XWPIsWKw/0.jpg)](https://youtu.be/8S2XWPIsWKw)
+<div align="center">
+  <a href="https://youtu.be/8S2XWPIsWKw" target="_blank">
+    <img src="https://img.youtube.com/vi/8S2XWPIsWKw/0.jpg" width="70%" />
+  </a>
+</div>
 
 ## 주요 위젯
 
@@ -72,6 +76,7 @@ exe 다운로드 링크 :
 https://drive.google.com/file/d/1AD7sd41y9z1qHb9rLoMkDNbZ8Adlvb9T/view?usp=sharing
 demo 영상 링크 :
 https://youtu.be/8S2XWPIsWKw
+
 
 
 
